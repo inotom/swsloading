@@ -9,6 +9,6 @@
   "author": "iNo <wdf7322@yahoo.co.jp>",
   "license": "MIT",
   "dependencies": {
-    "mithil": "^0.2.5"
+    "mithril": "^0.2.5"
   }
 }
