@@ -1,0 +1,18 @@
+{
+  "extends": "eslint:recommended",
+  "parser": "eslint",
+  "parserOptions": {
+    "ecmaVersion": 5
+  },
+  "rules": {
+    "strict": 0,
+    "semi": 2,
+    "eqeqeq": 2,
+    "no-var": 2,
+    "no-console": 0
+  },
+  "env": {
+    "browser": true,
+    "commonjs": true
+  }
+}

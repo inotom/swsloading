@@ -1,0 +1,14 @@
+{
+  "name": "swsloading",
+  "version": "1.0.0",
+  "description": "SVG loading animation with Mithril.js",
+  "main": "",
+  "private": true,
+  "scripts": {
+  },
+  "author": "iNo <wdf7322@yahoo.co.jp>",
+  "license": "MIT",
+  "dependencies": {
+    "mithil": "^0.2.5"
+  }
+}
