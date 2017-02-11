@@ -1,6 +1,6 @@
 # SVG loading animation with Mithril.js
 
-Compatible with Mithril 0.2.x
+Compatible with Mithril 1.0.x
 
 ## Install
 
