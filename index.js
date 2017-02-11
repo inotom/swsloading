@@ -1,4 +1,3 @@
-//module.exports = require('./src/index.js');
 (function(root, factory) {
   'use strict';
 
