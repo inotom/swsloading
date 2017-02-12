@@ -1,2 +1,1 @@
-import swsloading from './swsloading';
-module.exports = swsloading;
+module.exports = require('./swsloading.js');
