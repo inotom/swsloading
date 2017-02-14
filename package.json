@@ -1,6 +1,6 @@
 {
   "name": "swsloading",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "SVG loading animation with Mithril.js",
   "main": "src/index.js",
   "config": {

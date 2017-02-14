@@ -5,7 +5,7 @@ Compatible with Mithril 1.0.x
 ## Install
 
 ```
-$ npm install git://github.com/inotom/swsloading.git#v2.0.1 --save-dev
+$ npm install git://github.com/inotom/swsloading.git#v2.0.2 --save-dev
 ```
 
 ## Usage

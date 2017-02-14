@@ -1,16 +1,21 @@
-const swsloading = require('swsloading');
+/* global m */
 
-const appMain = {
-    oninit: function(vnode) {
-      vnode.attrs.msg = '';
+var swsloading = require('swsloading');
 
+var Data = {
+  msg: ''
+};
+
+var appMain = {
+    oninit: function() {
       setTimeout(function() {
-        vnode.attrs.msg = 'Hello, World!';
+        Data.msg = 'Hello, World!';
+        m.redraw();
       }, 3000);
     },
-    view: function(vnode) {
+    view: function() {
 
-      let msg = vnode.attrs.msg;
+      var msg = Data.msg;
 
       if (msg.length > 0) {
         return m('h1', msg);
